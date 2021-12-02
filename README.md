@@ -44,20 +44,28 @@ Here are some ideas to get you started:
 
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+
+I am a PhD candidate in computer science at the University of Central Florida working with Professor [Dr. Liqiang Wang](http://www.cs.ucf.edu/~lwang/).  During my Ph.D. study, I have polished and demonstrated my high-level research capability, strong analytical and problem-solving skills through several research topics: 
+- exploiting to characterize and model temporal trends in a large social-media network using big data techniques
+- optimizing the performance and scalability of big data systems using program analysis and machine learning techniques
+- detecting and repairing programming errors automatically leveraging deep learning techniques. 
+
+Before my Ph.D. the roles of a Linux kernel developer in MacroSAN and a director of the IT department in Elivebuy give me an opportunity to enhance my industrial and management work experience. Specifically, I not only have extensive experience using Python, Scala and R to design and develop multiple Apache Spark and learning-based applications, but also have strong computer skills including Linux system management, MySQL, AWS, and Jupyter notebook. 
+
+Please find me on [LinkedIn](https://www.linkedin.com/in/bingrao/) for a more detailed description of my full work experience, education and certification.
+
+<!-- - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://edgeprim.com/assets/images/EdgePrim.svg" height="30em" align="center" alt="EdgePrim" title="EdgePrim"/>](https://edgeprim.com) 𝚊𝚗𝚍 [<img src="https://youthhax.com/images/yh.png" height="30em" align="center" alt="YouthHax" title="YouthHax"/>](https://youthhax.com)
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟻
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
 - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
-During my Ph.D. study, I have polished and demonstrated my high-level research capability, strong analytical and problem-solving skills through several research topics: 1) exploiting to characterize and model temporal trends in a large social-media network using big data techniques, 2) optimizing the performance and scalability of big data systems using program analysis and machine learning techniques, 3) detecting and repairing programming errors automatically leveraging deep learning techniques. Before my Ph.D. the roles of a Linux kernel developer in MacroSAN and a director of the IT department in Elivebuy give me an opportunity to enhance my industrial and management work experience. Specifically, I not only have extensive experience using Python, Scala and R to design and develop multiple Apache Spark and learning-based applications, but also have strong computer skills including Linux system management, MySQL, AWS, and Jupyter notebook. 
 
+## 👷‍♂️ Research and Work Experience
 
-## 👷‍♂️ Work Experience
+## 👨‍🏫 Leadership Experience -->
 
-## 👨‍🏫 Leadership Experience
-
-## ⚒ Skills
+<!-- ## ⚒ Skills
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
@@ -66,6 +74,6 @@ During my Ph.D. study, I have polished and demonstrated my high-level research c
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code> -->
 
-## 📰 Publications
+<!-- ## 📰 Publications -->
